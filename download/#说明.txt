@@ -12,6 +12,10 @@ www.vbrichclient.com/en/Downloads.htm
 
 下载RC6BaseDlls.zip
 解压后双击注册DLL：RegisterRC6inPlace.vbs
+
+
+msedge.dll请解压到Sdk109.140
+
 -----------------------------------
 专注VB编程开发20年-CSDN博客
 https://blog.csdn.net/xiaoyao961
